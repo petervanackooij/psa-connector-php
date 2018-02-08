@@ -1,5 +1,5 @@
 {
-    "name": "petervanackooij/psa-connector--php",
+    "name": "petervanackooij/psa-connector-php",
     "autoload": {
         "psr-4" : {
             "PsaConnector\\" : "lib/"
